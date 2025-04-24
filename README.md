@@ -377,5 +377,6 @@ npx cypress open
 - Envio de dados ocorre a cada 10s ou quando a tensão muda mais de 0.05V
 - Logs são exibidos na serial para diagnóstico
 - JSON de envio pode ser alterado para incluir mais parâmetros
-#   F C T A U T O T E S T  
+#   F C T A U T O T E S T 
+ 
  
